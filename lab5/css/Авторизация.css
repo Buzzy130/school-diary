@@ -1,0 +1,149 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 752px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 402px;
+  height: 114px;
+  margin: 119px auto 0 323px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 570px;
+  height: auto;
+  background-image: none;
+  min-height: 331px;
+  margin: 50px auto 60px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 7px 30px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 241px;
+  width: 469px;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-carousel-item-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-text-1 {
+  margin-left: 0;
+  margin-bottom: 30px !important;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-1 .u-carousel-item-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 1.125rem;
+  display: none;
+  padding: 10px 21px 10px 20px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 1.125rem;
+  display: none;
+  padding: 10px 21px 10px 20px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 1.125rem;
+  display: none;
+  padding: 10px 21px 10px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 320px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 177px;
+    height: auto;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 650px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 240px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-left: 38px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-top: 1px;
+    margin-left: 138px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-top: 23px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 734px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 96px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+    margin-top: 80px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-left: auto;
+  }
+}
